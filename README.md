@@ -23,9 +23,7 @@
 
 - **City Search**: Easily search for current weather by city name.
 - **Weather Details**: View temperature, weather description, and icons for current conditions.
-- **Weekly Forecast**: Get a 7-day weather forecast with temperatures and icons.
 - **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Background Video**: A visually engaging background video enhances user experience.
 
 ## 🛠️ Technologies Used
 
@@ -36,7 +34,7 @@
 
 ## 🌟 Screenshots
 
-![Weather App Screenshot](/data/Screenshot2.png)
+![Weather App Screenshot](/Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -63,7 +61,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="data/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 </div>
