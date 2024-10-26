@@ -40,7 +40,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://prodigy-task-5-weather-app.vercel.app/)
+[View Live Demo](https://weather-app-tau-blond-90.vercel.app/)
 
 ## 🤝 Contributing
 
