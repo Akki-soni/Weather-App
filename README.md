@@ -64,4 +64,5 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
   <img src="logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
+## Thank You &#10084;
 </div>
